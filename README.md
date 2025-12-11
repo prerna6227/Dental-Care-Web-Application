@@ -6,7 +6,7 @@ The Dental Care Website (Home Page) is a clean, modern, and fully responsive web
 
 This project highlights the front-end design of a dental website, built from scratch using only HTML5 and CSS3, without any frameworks. The homepage includes all essential sections needed for a real-world dental clinic website, such as:
 
-A professional hero section with a large banner imag
+A professional hero section with a large banner image.
 Clean and simple navigation bar
 Service highlights
 Doctor introduction section
@@ -14,6 +14,7 @@ Fully responsive layout (mobile, tablet, laptop)
 The design focuses on visual clarity, modern spacing, and a medical theme using soft blue and white tones to match healthcare standards.
 
 🎯 Key Features
+
 ✔ Modern UI/UX Design
 The homepage is styled with clean typography, soft colors, rounded sections, and proper spacing to give a premium medical website look.
 
