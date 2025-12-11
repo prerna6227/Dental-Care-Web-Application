@@ -16,17 +16,20 @@ The design focuses on visual clarity, modern spacing, and a medical theme using 
 🎯 Key Features
 ✔ Modern UI/UX Design
 The homepage is styled with clean typography, soft colors, rounded sections, and proper spacing to give a premium medical website look.
+
 ✔ Responsive Layout
 Designed using flexible grids, responsive images, and CSS media queries. Works smoothly on:
 Mobile phones
 Tablets
 Laptops
 Desktop screens
+
 ✔ Hero Banner Section
 Large top banner featuring:
 Background image
 Title
 Short description
+
 ✔ Services Section
 Displays popular dental services such as:
 Teeth Whitening
@@ -35,12 +38,16 @@ Root Canal Treatment
 Braces & Aligners
 Regular Checkups
 Each service uses icons and minimal styling to make it visually appealing.
+
 ✔ About the Dentist / Clinic Section
 A section that introduces the dentist or clinic, including image placeholder and descriptive text to help users build trust instantly.
+
 ✔ Appointment Call-to-Action
 Dedicated strip encouraging users to book an appointment, increasing conversions.
+
 ✔ Testimonials or Patient Review Section
 Simple review cards to show client satisfaction and clinic credibility.
+
 ✔ Footer Section
 Neat footer with links like:
 Contact
